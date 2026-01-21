@@ -1,10 +1,10 @@
-# Campus Lost & Found System 🎓🔍
+# Campus Lost & Found System 
 
 A web-based platform for college students to report lost items and claim found ones. Features secure login, real-time chat, email notifications, and an admin dashboard.
 
 ---
 
-## 📂 Project Setup Guide
+##  Project Setup Guide
 
 ### 1. Prerequisites
 To run this project on any computer, you need:
