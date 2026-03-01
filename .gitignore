@@ -1,0 +1,5 @@
+/uploads/
+db.php
+mail_config.php
+vendor/
+.DS_Store
